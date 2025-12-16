@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm CoreJavaPulse 👋
 
-<!--
-**CoreJavaPulse/CoreJavaPulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Full-Stack Developer | 2024 Grad**
 
-Here are some ideas to get you started:
+![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Spring Boot](https://spring.io/projects/spring-boot) | [Angular](https://angular.io/)
+
+
+- 🔭 Building REST APIs & Microservices
+- 🌱 Learning advanced Spring Boot & Git workflows
+- 💼 Portfolio: [LinkedIn](https://linkedin.com/in/hitesh-mane-java)
