@@ -12,9 +12,9 @@
 ## 👨‍💻 About Me
 
 - 🚀 Java Full Stack Developer passionate about building scalable web applications  
-- 🌱 Currently deepening expertise in **Spring Boot** and learning **React**  
+- 🌱 Currently strengthening expertise in **Spring Boot** and learning **React**  
 - 💡 Strong foundation in Core Java, JDBC, and REST API development  
-- 🎯 Actively seeking opportunities to contribute and grow as a developer  
+- 🎯 Actively seeking entry-level opportunities to contribute and grow as a developer  
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### 🗄️ Database
 - MySQL
+- PostgreSQL
 
 ### 🔧 Tools
 - Git & GitHub
@@ -48,7 +49,7 @@
 
 ## 📌 Featured Projects
 - 🔹 Pinnacle Bank Application (Core Java)  
-- 🔹 Java and Oops  Practice Programs  
+- 🔹 Java & OOPs Practice Programs  
 - 🔹 Spring Boot REST API (In Progress)
 
 ---
