@@ -47,10 +47,8 @@
 ---
 
 ## 📌 Featured Projects
-
-- 🔹 Student Management System  
-- 🔹 Banking Application (Core Java)  
-- 🔹 Java Array Practice Programs  
+- 🔹 Pinnacle Bank Application (Core Java)  
+- 🔹 Java and Oops  Practice Programs  
 - 🔹 Spring Boot REST API (In Progress)
 
 ---
