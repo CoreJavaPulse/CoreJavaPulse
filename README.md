@@ -1,153 +1,193 @@
-# Hi 👋, I'm Hitesh Mane
+# Hi, I'm Hitesh Mane 👋
 
-### Java Developer | Core Java | Object-Oriented Programming | Backend Development
+### Full-Stack Developer | Java Backend Development | Building Practical Software Solutions
 
-I’m a Java Developer passionate about building practical applications, writing clean and maintainable code, and continuously improving my software development skills.
+I'm a developer passionate about building practical, scalable, and user-friendly applications. I enjoy working across the development stack, from designing responsive interfaces to implementing backend logic and database-driven functionality.
 
-I enjoy applying programming concepts to real-world problems — from designing object-oriented Java applications to developing responsive websites for business clients.
+My primary focus is **Java, Object-Oriented Programming, Backend Development, and Full-Stack Application Development**. I believe in strengthening fundamentals, writing clean code, and learning by building real-world projects.
 
-- 💻 Strong foundation in **Core Java and Object-Oriented Programming**
-- ☕ Hands-on experience with Java, collections, exception handling, and multithreading
-- 🏦 Developed a console-based banking application using pure Core Java
-- 🌐 Built and deployed a production website for a real client
-- 🚀 Exploring backend development and building practical software projects
-- 🎯 Interested in Java Developer and Software Engineer opportunities
+- 🔭 Working on full-stack applications and Java-based projects.
+- 🌱 Strengthening my skills in Java, Spring Boot, Data Structures & Algorithms, Next.js, and backend development.
+- 💻 Interested in backend engineering, REST APIs, database design, and software architecture.
+- 🎯 Focused on continuous learning and building reliable software solutions.
+- 🤝 Open to opportunities, collaboration, and learning from experienced developers.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**
-- Java
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Java & Backend Development**
-- Core Java
-- Object-Oriented Programming (OOP)
-- JDBC
-- Collections Framework
-- Exception Handling
-- Lambda Expressions
-- Functional Interfaces
-- Multithreading
-- REST API Development
-- Spring Boot
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Frontend Development**
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Angular
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Databases**
-- MySQL
-- PostgreSQL
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Tools & Development Environment**
-- Git & GitHub
-- Eclipse IDE
-- IntelliJ IDEA
-- Visual Studio Code
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 PinnacleBankCore — Core Java Banking System
+### 1. GymSync – Gym Management System
 
-A menu-driven console banking application developed using pure Core Java, demonstrating object-oriented design and real-world banking operations.
+**Tech Stack:** Next.js, Supabase, JavaScript
 
-**Highlights:**
-- Applied inheritance, abstraction, encapsulation, and polymorphism.
-- Implemented savings and current account operations.
-- Developed deposit, withdrawal, interest calculation, and transaction history.
-- Created custom business exceptions for banking rule enforcement.
-- Used Java Collections, enums, streams, and lambda expressions.
+A gym management application designed to simplify membership administration and daily gym operations through a responsive dashboard.
 
-**Technologies:** Java, OOP, Collections Framework
+**Key Features & Development Areas:**
+- Dashboard for monitoring gym membership statistics and revenue.
+- Member management with search and status-based filtering.
+- Membership tracking, including active, expiring, expired, and deactivated memberships.
+- Multi-gym management with gym-wise member statistics.
+- Membership renewal and payment management workflows.
+- Responsive interface designed for mobile, tablet, and desktop screens.
+- Reusable UI components and consistent design system.
 
-🔗 [GitHub Repository](https://github.com/CoreJavaPulse/PinnacleBankCore)
+🔗 **[Live Demo](https://gym-system-nu-pearl.vercel.app/dashboard)**
 
-### 🌐 Prime Risk Advisory — Client Website
+---
 
-Developed and deployed a responsive corporate website for a real Risk & Compliance consulting firm.
+### 2. PinnacleBankCore – Banking Management System
 
-**Highlights:**
-- End-to-end frontend development.
-- Responsive, mobile-first user interface.
-- Integrated Google Apps Script for contact form processing.
-- Google Sheets integration for inquiry management.
-- Implemented honeypot spam protection and Content Security Policy.
-- Deployed using GitHub Pages with a custom domain.
+**Tech Stack:** Core Java, OOP, Collections, Streams, Lambda Expressions
 
-**Technologies:** HTML5, CSS3, JavaScript, Google Apps Script
+A menu-driven banking application developed using Core Java, focusing on object-oriented programming principles and practical banking operations.
 
-🌍 [Live Website](https://primeriskadvisory.in/)  
-🔗 [GitHub Repository](https://github.com/CoreJavaPulse/Prime-Risk-Advisory)
+**Key Features:**
+- Savings and current account management.
+- Deposit and withdrawal operations.
+- Balance enquiry and transaction history.
+- Interest calculation and account-specific functionality.
+- Custom exception handling and input validation.
+- Java Collections, Enums, Streams, and Lambda Expressions.
+- Modular design using object-oriented programming principles.
 
-### ☕ JavaNexus — Core Java Learning Projects
+🔗 **[GitHub Repository](https://github.com/CoreJavaPulse/PinnacleBankCore)**
 
-A structured collection of 14 independent Java projects organized into a progressive learning path, from programming fundamentals to advanced Core Java concepts.
+---
 
-**Highlights:**
-- Practiced classes, objects, constructors, and encapsulation.
-- Explored inheritance, abstraction, interfaces, and polymorphism.
-- Implemented composition and exception handling.
-- Practiced Java Collections Framework and lambda expressions.
-- Explored multithreading and synchronization fundamentals.
+### 3. Prime Risk Advisory – Corporate Website
 
-**Technologies:** Java, Eclipse IDE
+**Tech Stack:** HTML5, CSS3, JavaScript, Google Apps Script, Google Sheets
 
-🔗 [GitHub Repository](https://github.com/CoreJavaPulse/JavaNexus)
+Developed a professional corporate website for a real client, focusing on responsive design, usability, and functional contact form integration.
 
-### 📚 Core Java & OOP Practice
+**Key Features:**
+- Responsive corporate website design.
+- Contact form integration using Google Apps Script.
+- Google Sheets integration for form submissions.
+- Honeypot-based spam protection.
+- Content Security Policy (CSP) implementation.
+- Custom domain and GitHub Pages deployment.
 
-A collection of Java programs and exercises focused on strengthening programming fundamentals, logical thinking, and object-oriented programming.
+🔗 **[Live Website](https://primeriskadvisory.in/)**  
+📂 **[GitHub Repository](https://github.com/CoreJavaPulse/Prime-Risk-Advisory)**
 
-**Highlights:**
-- Java fundamentals and basic programming.
-- Arithmetic and geometric calculations.
+---
+
+### 4. 250 Gift Shoppe – E-Commerce Web Application
+
+**Tech Stack:** Java, Spring Boot, REST APIs, Angular, PostgreSQL, HTML5, CSS3, JavaScript
+
+A full-stack e-commerce application developed as a freelance project, providing product browsing and shopping functionality.
+
+**Key Features:**
+- Product catalog and product management.
+- User management and order processing.
+- REST API development using Spring Boot.
+- PostgreSQL database integration.
+- CRUD operations and backend data validation.
+- Angular frontend with responsive product browsing.
+- Shopping cart functionality and API integration.
+
+---
+
+### 5. JavaNexus – Java Learning & Practice
+
+**Tech Stack:** Core Java, OOP, Collections, Exception Handling, Multithreading
+
+A structured Java repository containing 14 independent projects covering Java fundamentals and progressively advanced programming concepts.
+
+**Key Learning Areas:**
+- Java fundamentals and control flow.
+- Classes, objects, and OOP principles.
+- Constructors, inheritance, and polymorphism.
+- Collections Framework.
+- Exception handling.
+- Lambda expressions and functional interfaces.
+- Multithreading and practical programming exercises.
+
+🔗 **[GitHub Repository](https://github.com/CoreJavaPulse/JavaNexus)**
+
+---
+
+### 6. Core Java & OOP Practice
+
+**Tech Stack:** Core Java, Object-Oriented Programming
+
+A collection of Java programs and exercises created to strengthen programming fundamentals and problem-solving skills.
+
+**Topics Covered:**
+- Basic Java programming and arithmetic operations.
+- Conditional statements and loops.
 - Arrays and matrix operations.
 - Command-line arguments.
-- Logical problem-solving exercises.
-- Basic employee management programs.
+- Object-oriented programming concepts.
+- Employee management exercises.
+- Logic building and problem-solving.
 
-**Technologies:** Java, Eclipse IDE
-
-🔗 [GitHub Repository](https://github.com/CoreJavaPulse/Core-Java-OOP-Practice)
-
----
-
-## 📈 Current Focus
-
-- Strengthening Core Java and advanced OOP concepts.
-- Improving problem-solving and Data Structures & Algorithms.
-- Developing backend applications using Spring Boot.
-- Working with databases and REST APIs.
-- Building practical, maintainable software projects.
+🔗 **[GitHub Repository](https://github.com/CoreJavaPulse/Core-Java-OOP-Practice)**
 
 ---
 
-## 📊 GitHub Contributions
+## 📚 Current Learning & Focus
 
-I use GitHub to maintain my projects, document my learning journey, and continuously improve my development skills.
+- Advanced Core Java and Object-Oriented Programming.
+- Data Structures and Algorithms.
+- Spring Boot and backend application development.
+- REST API design and integration.
+- Database management and SQL.
+- Next.js and modern full-stack development.
+- Writing clean, maintainable, and reusable code.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-CoreJavaPulse-181717?style=for-the-badge&logo=github)](https://github.com/CoreJavaPulse)
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoreJavaPulse&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreJavaPulse&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [Hitesh Mane](https://www.linkedin.com/in/hitesh-mane-java)
-- 📧 **Email:** [hiteshmane5hm@gmail.com](mailto:hiteshmane5hm@gmail.com)
-- 🐙 **GitHub:** [@CoreJavaPulse](https://github.com/CoreJavaPulse)
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+[![GitHub](https://img.shields.io/badge/GitHub-CoreJavaPulse-181717?style=for-the-badge&logo=github)](https://github.com/CoreJavaPulse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hitesh_Mane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hitesh-mane-java)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshmane5hm@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-**Keep Learning. Keep Building. Keep Growing.** ☕
+⭐ **Keep Learning. Keep Building. Keep Growing.**
